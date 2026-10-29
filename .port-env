@@ -1,0 +1,5 @@
+export GRADLE_USER_HOME=/root/ports/gradle/inventory-tweaks
+export PORT_REPO=Vidanox/inventory-tweaks
+export PORT_NAME=inventory-tweaks
+export PORT_SLUG=inventory-tweaks
+export PORT_TARGET=1.21.11

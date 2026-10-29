@@ -30,3 +30,19 @@ classes/
 
 # Encrypted files
 invtweaks.keystore
+
+# CodeGraph and build output
+.codegraph/
+out/
+generated/
+generated-sources/
+generated-test-sources/
+run-server/
+logs/
+*.class
+*.log
+# Port documents live in the R2 bucket, not in git
+AGENTS.md
+PORT-FEATURES.md
+PORT-ARTIFACTS.md
+PORT-STATUS.md
